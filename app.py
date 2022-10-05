@@ -82,7 +82,7 @@ def main():
         churn_prediction = predict(age, gender, marital_status, dept_name, avg_monthly_hrs, filed_complaint, last_evaluation, n_projects, recently_promoted, salary, satisfaction, tenure)
 
     if churn_prediction == 0:
-        st.success("The emplaoyee will stay")
+        st.success("The employee will stay")
     else:
         st.error("The employee will leave")
 
