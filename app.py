@@ -83,7 +83,7 @@ def main():
 
     if churn_prediction == 0:
         st.success("The employee will stay")
-    else:
+    elif churn_prediction == 1:
         st.error("The employee will leave")
 
 if __name__=='__main__':
