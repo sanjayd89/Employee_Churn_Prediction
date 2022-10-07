@@ -1,9 +1,6 @@
-###### https://pandao.github.io/editor.md/en.html
-
-
 # Employee Churn Prediction | An End-to-End Project
 
-### Link to StreamLit Web App
+## Link to StreamLit Web App
 The link to web app developed and deployed on Streamlit cloud for Employee Churn prediction can be found [here](https://sanjayd89-employee-churn-prediction-app-74euga.streamlitapp.com/).
 
 ## Table of Contents
